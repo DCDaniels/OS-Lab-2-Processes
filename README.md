@@ -1,8 +1,8 @@
 
 ### *Lab 2 Processes*
+Collaborator: Chadille Jones
 
-
-Please check make3 for the solution to this problem.
+Please check main 3 for the solution to this problem.
 
 *****************************************************
 
